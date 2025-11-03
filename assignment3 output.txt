@@ -1,0 +1,28 @@
+Enter total number of relief items: 5
+
+Enter details for item 1:
+Name: 5
+5
+Weight (kg): Utility Value: 5
+5
+5
+5
+Divisible (1 = Yes, 0 = No): 
+Enter details for item 2:
+Name: Weight (kg): Utility Value: Divisible (1 = Yes, 0 = No): 
+Enter details for item 3:
+Name: Weight (kg): Utility Value: Divisible (1 = Yes, 0 = No): 
+Enter details for item 4:
+Name: Weight (kg): Utility Value: Divisible (1 = Yes, 0 = No): 
+Enter details for item 5:
+Name: Weight (kg): Utility Value: Divisible (1 = Yes, 0 = No): 
+Enter total weight capacity of the boat (kg): 
+=== Relief Cargo Optimization Summary ===
+Item           Weight(kg)  Value       Taken(kg)   
+------------------------------------------------------
+------------------------------------------------------
+Total Weight Loaded: 0.00 kg
+Total Utility Value: 0.00
+
+
+=== Code Execution Successful ===
