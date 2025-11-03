@@ -1,0 +1,13 @@
+Sort movies by (rating/year/popularity): year
+
+Sorted Movies:
+---------------------------------------------
+The Batman | Rating: 7.9 | Year: 2022 | WatchTime: 4500000 mins
+Avatar: The Way of Water | Rating: 7.8 | Year: 2022 | WatchTime: 5300000 mins
+Spider-Man: No Way Home | Rating: 8.2 | Year: 2021 | WatchTime: 6100000 mins
+Joker | Rating: 8.5 | Year: 2019 | WatchTime: 6400000 mins
+Parasite | Rating: 8.6 | Year: 2019 | WatchTime: 5200000 mins
+Avengers: Endgame | Rating: 8.4 | Year: 2019 | WatchTime: 8500000 mins
+
+
+=== Code Execution Successful ===
