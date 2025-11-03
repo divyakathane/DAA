@@ -3,7 +3,7 @@
 #include <algorithm>
 #include <chrono>
 
-// Structure to represent a customer order
+// Structure to represent a customer orders
 struct CustomerOrder {
     int orderId;
     long long timestamp; // Using long long for large timestamps
